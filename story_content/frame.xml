@@ -14,7 +14,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Jamjoom_Negotiation_Skills_M2 Final" />
+              <option name="title_text" value="Jamjoom_Negotiation_Skills_M2 Final13-6" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -36,7 +36,7 @@
           </optionlist>
           <option name="time_enabled" value="false">
             <options>
-              <option name="time_format" value="" />
+              <option name="time_format" value="none" />
             </options>
           </option>
           <option name="video_enabled" value="false">
@@ -1598,11 +1598,11 @@
             <slidelink slideid="_player.6mv5El1fCG0.6jMRS6yMF2E" displaytext="Recap" expand="false" type="slide" />
             <slidelink slideid="_player.6mv5El1fCG0.5i7OLxpKD7W" displaytext="Miscommunication" expand="false" type="slide" />
             <slidelink slideid="_player.6mv5El1fCG0.6QsydVpbU7t" displaytext="Quiz Time" expand="false" type="slide" />
-            <slidelink slideid="_player.6mv5El1fCG0.6LLPIIRGflH" displaytext="Q3" expand="false" type="slide" />
-            <slidelink slideid="_player.6mv5El1fCG0.6pKBvN7O40T" displaytext="Q3" expand="false" type="slide" />
+            <slidelink slideid="_player.6mv5El1fCG0.6LLPIIRGflH" displaytext="Q1" expand="false" type="slide" />
+            <slidelink slideid="_player.6mv5El1fCG0.6pKBvN7O40T" displaytext="Q2" expand="false" type="slide" />
             <slidelink slideid="_player.6mv5El1fCG0.6qsTSGfymF6" displaytext="Q3" expand="false" type="slide" />
-            <slidelink slideid="_player.6mv5El1fCG0.6OheP2GF6Xa" displaytext="Q3" expand="false" type="slide" />
-            <slidelink slideid="_player.6mv5El1fCG0.5gu9SJqmqHJ" displaytext="Q3" expand="false" type="slide" />
+            <slidelink slideid="_player.6mv5El1fCG0.6OheP2GF6Xa" displaytext="Q4" expand="false" type="slide" />
+            <slidelink slideid="_player.6mv5El1fCG0.5gu9SJqmqHJ" displaytext="Q5" expand="false" type="slide" />
             <slidelink slideid="_player.6mv5El1fCG0.5dqBrJWwCIz" displaytext="Thank You." expand="false" type="slide" />
           </links>
         </slidelink>
